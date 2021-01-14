@@ -1,0 +1,68 @@
+.bg-offpink {
+  background-color: #fff9f4;
+}
+.bg-gray {
+  background-color: #f1f1f1;
+}
+
+.ml-5 {
+  margin-left: 2rem;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.navbar-brand img {
+  width: 300px;
+}
+
+.border-none {
+  border: none;
+}
+
+.br-20 {
+  border-radius: 20px;
+}
+
+.br-8 {
+  border-radius: 8px;
+}
+
+.text-highlight {
+  color: #fa804c;
+}
+.text-blue {
+  color: #363958;
+}
+.font-nenu {
+  font-family: "Bebas Neue", cursive !important;
+}
+.fs-hero {
+  font-size: calc(3.5rem + 1.5vw) !important;
+}
+.fs-title {
+  font-size: calc(2rem + 1.5vw) !important;
+}
+.shadow-md {
+  box-shadow: 0 0.7rem 1.7rem 5px rgba(0, 0, 0, 0.1) !important;
+}
+
+.btn-bule {
+  color: #fff;
+  background: linear-gradient(to top, #3543bd, #3d4ff3);
+  border-color: #0d6efd;
+}
+.btn-bule:hover {
+  color: #fff;
+  background: linear-gradient(
+    to top,
+    rgba(53, 67, 189, 0.945),
+    rgba(61, 79, 243, 0.877)
+  );
+  border-color: transparent;
+}
+
+.carousel-item img {
+  width: 50%;
+}
